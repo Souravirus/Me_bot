@@ -1,11 +1,12 @@
 # Me_bot
 
 ### Installation and running the project:
-1. Install all the libraries that are needed. For tensorflow, install version 1.11.0.
+1. Install all the libraries that are needed.
+For tensorflow, install version 1.11.0.
 
-For installing any package just type `pip install [library]`.
+For installing any package, type `pip install [library]`.
 
-For installing Tensorflow just type  `pip install "tensorflow==1.11.0"`
+For installing Tensorflow, type  `pip install "tensorflow==1.11.0"`
 
 2. For running the me_bot.ipynb file first install jupyter and then run jupyter by this command 
 `jupyter notebook` and run the me_bot.ipynb.
